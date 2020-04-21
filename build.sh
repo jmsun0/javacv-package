@@ -1,8 +1,6 @@
 #!/bin/sh
 
 BASE_DIR=$(cd `dirname $0`; pwd)
-ANDROID_TMP_DIR=/data/local/tmp
-ANDROID_INSTALL_DIR=$ANDROID_TMP_DIR/javacv-package
 LIB_DIR=dependency_lib
 OSS='linux|android|windows|ios|macosx'
 ARCHS='x86|x86_64|arm|arm64'
