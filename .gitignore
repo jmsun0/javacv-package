@@ -1,0 +1,10 @@
+/target/
+/bin/
+/.settings/
+/logs/
+/tmp/
+.project
+.classpath
+**.jar
+**.tar.gz
+**.dex
